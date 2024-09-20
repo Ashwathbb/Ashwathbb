@@ -38,6 +38,6 @@ Here are some of my notable projects:
 
 ### Get in Touch
 - 📫 Email: [ashwathabbyathanala143@gmail.com]
-- 🌐 LinkedIn:(linkedin.com/in/ashwath-b-b-bab06b263)
+- 🌐 LinkedIn:[linkedin.com/in/ashwath-b-b-bab06b263]
 
 Feel free to reach out or connect with me!
