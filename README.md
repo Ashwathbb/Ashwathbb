@@ -35,9 +35,9 @@ Here are some of my notable projects:
 - **Frameworks**: Angular, React, Node.js
 - **Database**: MSSQL etc.,
 - **Tools**: Git, Docker, Visual Studio Code,Gitlab,Jira etc
-- 
+
 ### Get in Touch
-- 📫 Email: [Ashwath_b_b](ashwathabbyathanala143@gmail.com)
-- 🌐 LinkedIn: [Ashwath_b_b](linkedin.com/in/ashwath-b-b-bab06b263)
+- 📫 Email: [ashwathabbyathanala143@gmail.com]
+- 🌐 LinkedIn:(linkedin.com/in/ashwath-b-b-bab06b263)
 
 Feel free to reach out or connect with me!
