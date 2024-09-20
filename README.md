@@ -10,8 +10,8 @@ I am a passionate coder and technology enthusiast. I love exploring new programm
 - 🎨 UI/UX design
   
 ### Education
-- **MAster's Degree in MCA**  
-  Kuvempu unioversity, 2023
+- **Master's Degree in MCA**  
+  Kuvempu unioversity, 2023 with 83%
 
 ### Projects
 Here are some of my notable projects:
